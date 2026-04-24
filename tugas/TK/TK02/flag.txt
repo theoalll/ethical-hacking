@@ -1,0 +1,1 @@
+FLAG{solved_TK_02}
